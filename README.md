@@ -3,6 +3,8 @@
 ## Introduction
 The data set used is a masked data set similar to what data analysts at Uber handle. Solving this assignment will give you an idea of how problems are systematically solved using EDA and data visualization.
 
+<img src="uber.jpg" alt="Image" width = "600"/>
+
 ## Business Understanding
 Customers often face issues like cancellation by drivers or non-availability of cars, which also impact Uber's business. This analysis aims to address the problem of driver cancellation and non-availability of cars leading to potential revenue loss.
 
