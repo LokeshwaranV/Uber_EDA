@@ -25,7 +25,3 @@ Identify data quality issues and clean the data for analysis. Ensure that dates 
 - Find the types of requests for which the gap is the most severe in the identified time slots.
 - Recommend ways to resolve the supply-demand gap.
 
-## Submission Requirements
-- Create plots to visualize the data and present the analysis in a well-formatted presentation (PDF version of the PPT).
-- Include a commented Jupyter Notebook with the analysis done in Python, including all plots.
-- You may recreate the plots in Tableau for inclusion in the presentation.
